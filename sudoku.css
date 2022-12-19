@@ -39,7 +39,7 @@ hr {
     width: 450px;
     height: 50px;
 
-    background-color: pink;
+    background-color: grey;
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
